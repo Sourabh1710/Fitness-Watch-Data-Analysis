@@ -13,7 +13,7 @@ Below is the process I followed while working on the problem of Fitness Watch Da
 5. **User Segmentation**: Segment user activity based on time intervals or the level of fitness metrics and analyze their performance.
 
 ## Fitness Watch Data Analysis using Python
-Now let’s get started with the task of Fitness Watch Data Analysis by importing the necessary Python libraries and the ![dataset](https://statso.io/fitness-data-analysis-case-study/).
+Now let’s get started with the task of Fitness Watch Data Analysis by importing the necessary Python libraries and the [dataset](https://statso.io/fitness-data-analysis-case-study/).
 
 ### Step Count Analysis
 I analyzed the step count over time:
